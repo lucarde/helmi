@@ -93,6 +93,10 @@ body {
     text-decoration: none;
 }
 
+.linkNovedades:hover{
+    color: rgb(194, 233, 247);
+}
+
 /* TRADEMARK */
 
 .footer{
@@ -100,7 +104,7 @@ body {
     top: auto;
     bottom: 0%;
     z-index: auto;
-    margin-top: 0;
+    margin-top: 10%;
     font-size: 0.625rem;
     text-align: center;
 }
